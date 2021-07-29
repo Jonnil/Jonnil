@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jonnil
+- 👀 I’m interested in platformer games
+- 🌱 I’m currently learning GameMaker Studio 2
+- 💞️ I’m looking to collaborate on platformer gamers, I guess, but I'm working on my own project.
+- 📫 How to reach me: jonathan10nilsson14@gmail.com
